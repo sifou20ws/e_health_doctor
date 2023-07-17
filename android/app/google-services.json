@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "972243313649",
+    "project_id": "e-health-tech",
+    "storage_bucket": "e-health-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972243313649:android:3658d740a81f507d0fda50",
+        "android_client_info": {
+          "package_name": "com.EhealthTech.app.e_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972243313649-uf1626t52e5l1akdt5d3d5n71egtuk00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDXVDf-My29DP03KwQF3uu9kvtpvj5H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972243313649-uf1626t52e5l1akdt5d3d5n71egtuk00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972243313649-6cql0518i56cuopoctjv52lkak37ivnu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.EhealthTech.app.eHealth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972243313649:android:50aa99992aab74a90fda50",
+        "android_client_info": {
+          "package_name": "com.example.e_health_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972243313649-uf1626t52e5l1akdt5d3d5n71egtuk00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDXVDf-My29DP03KwQF3uu9kvtpvj5H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972243313649-uf1626t52e5l1akdt5d3d5n71egtuk00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972243313649-6cql0518i56cuopoctjv52lkak37ivnu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.EhealthTech.app.eHealth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
